@@ -101,8 +101,7 @@ mini-erp-oracle/
 │   │   ├── consultas_sql.png
 │   │   └── relatorios.png
 │   │
-│   └── roadmap/
-│       └── roadmap.md
+│
 │
 ├── sql/
 │   ├── 01_ddl/
