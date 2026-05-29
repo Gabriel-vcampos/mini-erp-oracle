@@ -97,10 +97,10 @@ mini-erp-oracle/
 │   │   └── er_diagram.png
 │   │
 │   ├── screenshots/
-│   │   ├── dbeaver_tables.png
-│   │   ├── consultas_sql.png
-│   │   └── relatorios.png
-│   │
+│       ├── dbeaver_tables.png
+│       ├── consultas_sql.png
+│       └── relatorios.png
+│
 │
 │
 ├── sql/
